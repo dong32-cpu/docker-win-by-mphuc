@@ -2,7 +2,7 @@
   "name": "Windows 10 Full Soft Lite 21H2 by Lehait",
   "service": "windows",
   "containerEnv": {
-    "VERSION":"https://download1334.mediafire.com/8aofnejq3mfgMVSo2H5qSIqWMBGYMemg7rR2v_vFXU2FWkjQUv_3cIK0H8vovu5rSwQvoaIwFbuwc6WE3nGurulGqtOfeP8M-OSHCpu_iGHKXuwTyc_MbcA4dcs0SA4i3979EPbmREEEfDu29J6Vyw6phpyR54gSKzN4DfwF22SN/benjs7mjed7phy3/Win10.21H2.Lite.iso"
+    "VERSION":"https://download1334.mediafire.com/fux6n2fk75tgijiooRNqNKM5zjwSARfIF2DAk-DvKfYC5OZZWF5gcl95ZgoliWPiwaeg4lGbN0g3Xfxw_spkiayXOcs_V6CkCKDvnpFTqYBw8odB5vkwZtLTkhsmnroOwuS19c6F2BVy_lWumhkQR48ZYyUvHJ8HHftDu3EKcqeq/benjs7mjed7phy3/Win10.21H2.Lite.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
