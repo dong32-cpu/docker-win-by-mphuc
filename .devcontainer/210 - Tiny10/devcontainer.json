@@ -2,7 +2,7 @@
   "name": "Tiny10",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "tiny10"
+    "VERSION": "https://dn721000.ca.archive.org/0/items/tiny-10-NTDEV/tiny10_21H2_x64_beta_1.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
