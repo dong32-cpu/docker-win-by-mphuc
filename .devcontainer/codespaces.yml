@@ -4,7 +4,7 @@ services:
     image: ghcr.io/dockur/windows
     environment:
       RAM_SIZE: "4G"
-      DISK_SIZE: "32G"
+      DISK_SIZE: "max"
       CPU_CORES: "16"
       MANUAL: "Y"
     devices:
